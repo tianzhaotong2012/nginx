@@ -1,0 +1,43 @@
+2018/11/01 13:49:09 [notice] 31617#0: using the "epoll" event method
+2018/11/01 13:49:09 [notice] 31617#0: nginx/1.8.0
+2018/11/01 13:49:09 [notice] 31617#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-28) (GCC) 
+2018/11/01 13:49:09 [notice] 31617#0: OS: Linux 3.10.0-514.21.1.el7.x86_64
+2018/11/01 13:49:09 [notice] 31617#0: getrlimit(RLIMIT_NOFILE): 100001:100002
+2018/11/01 13:49:09 [notice] 31618#0: start worker processes
+2018/11/01 13:49:09 [notice] 31618#0: start worker process 31619
+2018/11/01 13:49:09 [notice] 31618#0: start worker process 31620
+2018/11/01 13:49:09 [notice] 31618#0: start worker process 31621
+2018/11/01 13:49:09 [notice] 31618#0: start worker process 31622
+2018/11/01 13:49:09 [notice] 31618#0: start worker process 31623
+2018/11/01 13:49:09 [notice] 31618#0: start worker process 31624
+2018/11/01 13:49:09 [notice] 31618#0: start worker process 31625
+2018/11/01 13:49:09 [notice] 31618#0: start worker process 31626
+2018/11/01 13:49:20 [error] 31619#0: *1 open() "../html/favicon.ico" failed (2: No such file or directory), client: 36.110.89.242, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "94.191.17.62:8081", referrer: "http://94.191.17.62:8081/index.php"
+2018/11/01 13:50:28 [notice] 31741#0: signal process started
+2018/11/01 13:50:28 [notice] 31618#0: signal 15 (SIGTERM) received, exiting
+2018/11/01 13:50:28 [notice] 31619#0: exiting
+2018/11/01 13:50:28 [notice] 31619#0: exit
+2018/11/01 13:50:28 [notice] 31620#0: exiting
+2018/11/01 13:50:28 [notice] 31620#0: exit
+2018/11/01 13:50:28 [notice] 31621#0: exiting
+2018/11/01 13:50:28 [notice] 31621#0: exit
+2018/11/01 13:50:28 [notice] 31622#0: exiting
+2018/11/01 13:50:28 [notice] 31622#0: exit
+2018/11/01 13:50:28 [notice] 31623#0: exiting
+2018/11/01 13:50:28 [notice] 31623#0: exit
+2018/11/01 13:50:28 [notice] 31624#0: exiting
+2018/11/01 13:50:28 [notice] 31624#0: exit
+2018/11/01 13:50:28 [notice] 31625#0: exiting
+2018/11/01 13:50:28 [notice] 31625#0: exit
+2018/11/01 13:50:28 [notice] 31626#0: exiting
+2018/11/01 13:50:28 [notice] 31626#0: exit
+2018/11/01 13:50:28 [notice] 31618#0: signal 17 (SIGCHLD) received
+2018/11/01 13:50:28 [notice] 31618#0: worker process 31619 exited with code 0
+2018/11/01 13:50:28 [notice] 31618#0: worker process 31620 exited with code 0
+2018/11/01 13:50:28 [notice] 31618#0: worker process 31621 exited with code 0
+2018/11/01 13:50:28 [notice] 31618#0: worker process 31622 exited with code 0
+2018/11/01 13:50:28 [notice] 31618#0: worker process 31623 exited with code 0
+2018/11/01 13:50:28 [notice] 31618#0: worker process 31624 exited with code 0
+2018/11/01 13:50:28 [notice] 31618#0: worker process 31625 exited with code 0
+2018/11/01 13:50:28 [notice] 31618#0: worker process 31626 exited with code 0
+2018/11/01 13:50:28 [notice] 31618#0: exit
