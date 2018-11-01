@@ -1,3 +1,5 @@
+## Prepare ##
+- yum install -y gcc gcc-c++
 ## Compile ##
 - run sh local_build.sh
 ## Install ##
